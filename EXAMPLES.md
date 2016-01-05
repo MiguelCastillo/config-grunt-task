@@ -1,8 +1,9 @@
 # Examples
 
-### First, let's look at a setup where `config-grunt-task` loads all the tasks in you `tasks` folder.
+### First,
+let's look at a setup where `config-grunt-task` loads all the tasks in you `tasks` folder.
 
-```
+``` javascript
 module.exports = function(grunt) {
   "use strict";
 
@@ -23,9 +24,10 @@ module.exports = function(grunt) {
 };
 ```
 
-### Second, let's look at a setup where `config-grunt-task` loads specific tasks. Some people like more control over their stuff! I am certainly not judging you. :)
+### Second,
+let's look at a setup where `config-grunt-task` loads specific tasks. Some people like more control over their stuff! I am certainly not judging you. :)
 
-```
+``` javascript
 module.exports = function(grunt) {
   "use strict";
 

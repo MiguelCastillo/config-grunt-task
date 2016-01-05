@@ -17,7 +17,7 @@ npm install --save-dev config-grunt-task
 
 Then you can `require`it in your `Gruntfile.js` to load your taks configuration files.
 
-Take a look at this [examples](EXAMPLES.md) to get you up and running.
+Take a look at these [examples](EXAMPLES.md) to get you up and running.
 
 ## License
 
