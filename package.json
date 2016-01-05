@@ -1,5 +1,5 @@
 {
-  "name": "config-grunt-task",
+  "name": "config-grunt-tasks",
   "version": "1.0.0",
   "description": "Grunt task configuration loader",
   "main": "index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MiguelCastillo/config-grunt-task.git"
+    "url": "https://github.com/MiguelCastillo/config-grunt-tasks.git"
   },
   "keywords": [
     "grunt"
@@ -20,7 +20,7 @@
   "author": "Miguel Castillo <manchagnu@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MiguelCastillo/config-grunt-task/issues"
+    "url": "https://github.com/MiguelCastillo/config-grunt-tasks/issues"
   },
-  "homepage": "https://github.com/MiguelCastillo/config-grunt-task"
+  "homepage": "https://github.com/MiguelCastillo/config-grunt-tasks"
 }
