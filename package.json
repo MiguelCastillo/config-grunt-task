@@ -1,0 +1,26 @@
+{
+  "name": "config-grunt-task",
+  "version": "1.0.0",
+  "description": "Grunt task configuration loader",
+  "main": "index.js",
+  "dependencies": {
+    "glob": "^6.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MiguelCastillo/config-grunt-task.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Miguel Castillo <manchagnu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MiguelCastillo/config-grunt-task/issues"
+  },
+  "homepage": "https://github.com/MiguelCastillo/config-grunt-task"
+}
