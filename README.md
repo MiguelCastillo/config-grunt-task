@@ -21,7 +21,7 @@ Then you can `require`it in your `Gruntfile.js` to load your tasks configuration
 
 ## Conventions
 
-`config-grunt-tasks` uses conventions for mapping task configurations to file names. That is to say that your `eslint` taks will require a file called `eslint.js` in your `tasks` directory. This `eslint.js` will export the JSON structure, or a function that is called to get the JSON structure that contains all the corresponding `eslint` settings.  If `eslint.js` exports a function, then that function will be called with the current instance of Grunt as the first argument. Please feel free to checkout [bit-bundler's](https://github.com/MiguelCastillo/bit-bundler/tree/master/tasks) for a sample setup.
+`config-grunt-tasks` uses conventions for mapping task configurations to file names. That is to say that your `eslint` taks will require a file called `eslint.js` in your `tasks` directory. This `eslint.js` will export the JSON structure, or a function that is called to get the JSON structure that contains all the corresponding `eslint` settings.  If `eslint.js` exports a function, then that function will be called with the current instance of Grunt as the first argument. Please feel free to checkout [bit-bundler](https://github.com/MiguelCastillo/bit-bundler/tree/master/tasks) for a sample setup.
 
 
 ## Examples
