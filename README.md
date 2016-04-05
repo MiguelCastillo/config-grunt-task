@@ -14,6 +14,8 @@ Also, this [article by Thomas Boyt](http://www.thomasboyt.com/2013/09/01/maintai
 npm install --save-dev config-grunt-tasks
 ```
 
+![Sample conversation](https://raw.github.com/wiki/MiguelCastillo/config-grunt-tasks/images/sample-conversion.gif)
+
 
 ## Conventions
 
