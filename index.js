@@ -7,14 +7,17 @@ var defaultOptions = {
 };
 
 function normalizeOptions(options) {
+  if (options) {
+    if (typeof options === "string") {
+      options = {
+        path: options
+      };
+    }
+  }
+
   if (!options || !options.path) {
     options = {
       path: defaultOptions.path
-    };
-  }
-  else if (typeof options === "string") {
-    options = {
-      path: options
     };
   }
 
