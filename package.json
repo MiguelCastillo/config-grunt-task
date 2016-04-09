@@ -4,7 +4,7 @@
   "description": "Grunt task configuration loader",
   "main": "index.js",
   "dependencies": {
-    "glob": "^6.0.3"
+    "glob": "^6.0.4"
   },
   "devDependencies": {},
   "scripts": {
